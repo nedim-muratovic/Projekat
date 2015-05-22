@@ -1,0 +1,23 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1432305654013">
+  <folder name="images">
+    <file name="960 480 1.jpg" crc="433263848" ref="index"/>
+    <file name="960 480 2.jpg" crc="4243088846" ref="index"/>
+    <file name="960 480 3.jpg" crc="4124190104" ref="index"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="392071292"/>
+    <file name="index.css" crc="3890640162" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index"/>
+    <file name="museutils.js" crc="4136605575" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="index"/>
+    <file name="webpro.js" crc="420478120" ref="index"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="index"/>
+    <file name="touchswipe.js" crc="60020316" ref="index"/>
+  </folder>
+  <file name="index.html" crc="31495951" mt="1432305621638" redirect="true"/>
+</manifest>

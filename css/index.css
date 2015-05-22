@@ -1,0 +1,369 @@
+.version.index /* version checker */
+{
+	color: #0000E7;
+	background-color: #E67522;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 387.9994999999998px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 50px;
+	padding-bottom: 62.000500000000216px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pamphletu72
+{
+	z-index: 2;
+	width: 0.01px;
+	height: 549px;
+	padding-bottom: 6px;
+	position: relative;
+}
+
+#u75
+{
+	z-index: 3;
+	width: 446px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 529px;
+	left: 256px;
+}
+
+#u76
+{
+	position: absolute;
+	width: 168px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C7C7C7;
+	background-color: #FFFFFF;
+	-moz-border-radius: 6px 0px 0px 6px ;
+	-webkit-border-radius: 6px 0px 0px 6px ;
+	-khtml-border-radius: 6px 0px 0px 6px ;
+	border-radius: 6px 0px 0px 6px ;
+	padding-bottom: 7px;
+	top: -10px;
+	left: -31px;
+}
+
+#u76.PamphletThumbSelected
+{
+	border-color: #0685CB;
+	background-color: #4EB2F0;
+	-moz-border-radius: 6px 0px 0px 6px ;
+	-webkit-border-radius: 6px 0px 0px 6px ;
+	-khtml-border-radius: 6px 0px 0px 6px ;
+	border-radius: 6px 0px 0px 6px ;
+	width: 168px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u77-4
+{
+	z-index: 5;
+	width: 108px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #6B6B6B;
+	font-size: 13px;
+	line-height: 16px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 30px;
+}
+
+#u76:hover #u77-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	margin: 9px -10000px 0px 0px;
+}
+
+#u76.PamphletThumbSelected #u77-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	margin: 9px -10000px 0px 0px;
+}
+
+#u76:hover #u77-4 p
+{
+	color: #4EB2F0;
+	visibility: inherit;
+}
+
+#u80
+{
+	position: absolute;
+	width: 169px;
+	border-style: solid;
+	border-color: #C7C7C7;
+	background-color: #FFFFFF;
+	padding-bottom: 6px;
+	top: -10px;
+	left: 139px;
+	border-width: 1px 0px;
+}
+
+#u80.PamphletThumbSelected
+{
+	border-color: #0685CB;
+	background-color: #4EB2F0;
+	width: 169px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u81-4
+{
+	z-index: 10;
+	width: 108px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #6B6B6B;
+	font-size: 13px;
+	line-height: 16px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 31px;
+}
+
+#u80:hover #u81-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	margin: 10px -10000px 0px 0px;
+}
+
+#u80:hover #u81-4 p
+{
+	color: #4EB2F0;
+	visibility: inherit;
+}
+
+#u78
+{
+	position: absolute;
+	width: 168px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C7C7C7;
+	background-color: #FFFFFF;
+	-moz-border-radius: 0px 6px 6px 0px ;
+	-webkit-border-radius: 0px 6px 6px 0px ;
+	-khtml-border-radius: 0px 6px 6px 0px ;
+	border-radius: 0px 6px 6px 0px ;
+	padding-bottom: 6px;
+	top: -10px;
+	left: 308px;
+}
+
+#u78.PamphletThumbSelected
+{
+	border-color: #0685CB;
+	background-color: #4EB2F0;
+	width: 168px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u79-4
+{
+	z-index: 15;
+	width: 108px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #6B6B6B;
+	font-size: 13px;
+	line-height: 16px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 29px;
+}
+
+#u80.PamphletThumbSelected #u81-4,#u78:hover #u79-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	margin: 10px -10000px 0px 0px;
+}
+
+#u78.PamphletThumbSelected #u79-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	margin: 10px -10000px 0px 0px;
+}
+
+#u78:hover #u79-4 p
+{
+	color: #4EB2F0;
+	visibility: inherit;
+}
+
+#u76.PamphletThumbSelected #u77-4 p,#u80.PamphletThumbSelected #u81-4 p,#u78.PamphletThumbSelected #u79-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u84
+{
+	position: absolute;
+	width: 960px;
+	background-color: transparent;
+}
+
+#u84popup
+{
+	z-index: 19;
+}
+
+#u89
+{
+	z-index: 20;
+	width: 960px;
+	height: 480px;
+	border-style: none;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	background: #000000 url("../images/960%20480%201.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u90-6
+{
+	z-index: 21;
+	width: 300px;
+	min-height: 282px;
+	background-color: transparent;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 99px;
+	left: 70px;
+}
+
+#u87
+{
+	z-index: 27;
+	width: 960px;
+	height: 480px;
+	border-style: none;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	background: #000000 url("../images/960%20480%202.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u88-6
+{
+	z-index: 28;
+	width: 300px;
+	min-height: 282px;
+	background-color: transparent;
+	text-align: right;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 99px;
+	left: 590px;
+}
+
+#u85
+{
+	z-index: 34;
+	width: 960px;
+	height: 480px;
+	border-style: none;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	background: #000000 url("../images/960%20480%203.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u86-6
+{
+	z-index: 35;
+	width: 300px;
+	min-height: 282px;
+	background-color: transparent;
+	text-align: right;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 99px;
+	left: 590px;
+}
+
+#u90-2,#u88-2,#u86-2
+{
+	font-size: 30px;
+	line-height: 36px;
+	text-indent: 0px;
+	color: #FFFFFF;
+	font-family: source-sans-pro, sans-serif;
+}
+
+#u90-4,#u88-4,#u86-4
+{
+	font-size: 16px;
+	line-height: 19px;
+	text-indent: 0px;
+	color: #EFEFEF;
+	font-family: source-sans-pro, sans-serif;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
